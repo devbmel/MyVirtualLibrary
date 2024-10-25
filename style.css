@@ -1,0 +1,93 @@
+body {
+  background-color: #f6f2ef;
+}
+
+header {
+  background-color: #2f3b3b;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+
+nav a {
+  color: #a27b5c;
+  padding: 6em;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Almendra";
+  font-size: 60px;
+  color: #2f3b3b;
+  margin: 80px;
+}
+
+section p {
+  width: 1246px;
+  height: 344px;
+  border: solid;
+  border-color: #7a5c45;
+  background-color: #e2d6cc;
+  color: #7a5c45;
+  padding: 20px;
+}
+
+.connexion {
+  background-color: #dcd7c9;
+  color: #161b1c;
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  border-radius: 1em;
+  margin-right: 2em;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  position: absolute;
+  height: 160px;
+  width: 160px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+}
+
+.connecter {
+  background-color: #a27b5c;
+  border: solid;
+  border-radius: 10px;
+  border-color: #392b20;
+  height: 106;
+  width: 327;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.inscription {
+  background-color: #a27b5c;
+  border: solid;
+  border-radius: 10px;
+  border-color: #392b20;
+  height: 106;
+  width: 327;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  padding-right: 35px;
+}
